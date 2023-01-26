@@ -1,22 +1,25 @@
 body
 {
-    color: blue;
+    background-color: black;
+    color: rgb(15, 15, 15);
     text-align: center;
-    font-family: "curiel";
+    font-family: "arial";
     font-size: 16px;
     margin: 12;
     padding: 13;
 }
 #container
 {
+    background-color: rgb(235, 234, 236);
     width: 70%;
     padding:lem;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 5px solid rgb(202, 95, 188);
     margin: 0 auto;
 }
 
 #container h1
 {
-font-size: 20px;
+background-color: rgb(200, 200, 243);
+    font-size: 20px;
 }
